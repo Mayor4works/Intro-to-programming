@@ -27,15 +27,4 @@
 .Thunderstorm {
   background-color: #333;
   color: #fff;
-}
-
-#orderForm {
-  width: 75%;
-  margin: 20px auto;
-}
-
-#receipt {
-  background-color: #996600;
-  color: yellow;
-  padding: 6px;
-}
+};
